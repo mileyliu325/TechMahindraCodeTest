@@ -1,0 +1,6 @@
+framework module Pods_TechMahindraCodeTestUITests {
+  umbrella header "Pods-TechMahindraCodeTestUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
