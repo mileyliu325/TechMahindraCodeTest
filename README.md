@@ -1,6 +1,7 @@
 # TechMahindraCodeTest
 A weather app
 # Screenshot
-![](TechMahindraCodeTest/waethersum.png)
-![](TechMahindraCodeTest/waetherdetail.png)
-![](TechMahindraCodeTest/waethersearch.png)
+
+![](TechMahindraCodeTest/weathersum.png)
+![](TechMahindraCodeTest/weatherdetail.png)
+![](TechMahindraCodeTest/wearthersearch.png)
